@@ -1,0 +1,5 @@
+theme: jekyll-theme-primer
+baseurl: "/"
+google_analytics: G-JNDNQC96YY
+permalink: "/:title"
+title: Viec.Co DEV
